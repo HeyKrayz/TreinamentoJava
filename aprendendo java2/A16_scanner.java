@@ -6,5 +6,6 @@ public class A16_scanner {
         String nome = scanner.nextLine();
         int idade = scanner.nextInt();
 
+        System.out.println ("seu nome e " + nome + " e vc tem " + idade + " anos");
     }
 }
